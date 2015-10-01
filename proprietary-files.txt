@@ -554,7 +554,6 @@ etc/firmware/fingerprintsecurity.b01
 etc/firmware/fingerprintsecurity.b02
 etc/firmware/fingerprintsecurity.b03
 etc/firmware/fingerprintsecurity.mdt
-lib/hw/fingerprint.msm8994.so
 lib64/libqseecom_fingerprints_client.so
 lib/libqseecom_fingerprints_client.so
 vendor/lib64/libqfp-service.so
